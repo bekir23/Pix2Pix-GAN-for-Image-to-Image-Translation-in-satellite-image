@@ -11,4 +11,5 @@ The dataset is provided on the pix2pix website and can be downloaded as a 255-me
 https://people.eecs.berkeley.edu/~tinghuiz/projects/pix2pix/datasets/
 
 Our result can seen below. First row indicate input image, Second row model's indicate predict. Last row indicate ground truth<br/>
+This result is not so good,but your model can be good if you contiune training proccess with enough GPU resource.
 ![alt text](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/Plot-of-Satellite-to-Google-Map-Translated-Images-Using-Pix2Pix-After-100-Training-Epochs.png)
